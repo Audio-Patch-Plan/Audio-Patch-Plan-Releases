@@ -8,7 +8,7 @@
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan/releases/download/v0.5.1/AudioShowBook-0.5.1-2.zip" length="7851264" type="application/octet-stream" sparkle:edSignature="vOYtPn5uFWdEDam3X23MAkbQeNsL5nayX3vRGxgY4673lD24Yb095+BvIRsfWqf4IgIczAhsS38WTgBVe9JeDA=="/>
+            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.1/AudioShowBook-0.5.1-2.zip" length="7851264" type="application/octet-stream" sparkle:edSignature="vOYtPn5uFWdEDam3X23MAkbQeNsL5nayX3vRGxgY4673lD24Yb095+BvIRsfWqf4IgIczAhsS38WTgBVe9JeDA=="/>
         </item>
     </channel>
 </rss>

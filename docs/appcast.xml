@@ -9,7 +9,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.0/AudioPatchPlan-0.5.0-1.zip" length="7928367" type="application/octet-stream"/>
+            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.0/AudioPatchPlan-0.5.0-1.zip" length="7928367" type="application/octet-stream" sparkle:edSignature="6Ktk62SnT7xnxUooUr745sbQokmmC+X67u9QQ1JfNGf73p83cBeKCDOQkDyXcl6S9f+68M9RILXVyOxQVd4BDA"/>
         </item>
     </channel>
 </rss>

@@ -4,11 +4,21 @@
         <title>Audio Show Book</title>
         <item>
             <title>0.5.1</title>
-            <pubDate>Sat, 27 Jun 2026 12:17:08 -0400</pubDate>
+            <pubDate>Sat, 27 Jun 2026 17:17:08 +0100</pubDate>
+            <link>https://audio-patch-plan.github.io/Audio-Patch-Plan-Releases/</link>
             <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.1/AudioShowBook-0.5.1-2.zip" length="7851264" type="application/octet-stream" sparkle:edSignature="vOYtPn5uFWdEDam3X23MAkbQeNsL5nayX3vRGxgY4673lD24Yb095+BvIRsfWqf4IgIczAhsS38WTgBVe9JeDA=="/>
+            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/AudioShowBook-0.5.1-2.zip" length="7851264" type="application/octet-stream"/>
+        </item>
+        <item>
+            <title>0.5.0</title>
+            <pubDate>Wed, 01 Jul 2026 15:56:43 +0100</pubDate>
+            <link>https://audio-patch-plan.github.io/Audio-Patch-Plan-Releases/</link>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/AudioPatchPlan-0.5.0-1.zip" length="7938091" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

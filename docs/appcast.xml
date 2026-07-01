@@ -4,12 +4,12 @@
         <title>Audio Patch Plan</title>
         <item>
             <title>0.5.0</title>
-            <pubDate>Wed, 01 Jul 2026 23:02:12 +0100</pubDate>
+            <pubDate>Wed, 01 Jul 2026 23:36:20 +0100</pubDate>
             <link>https://audio-patch-plan.github.io/Audio-Patch-Plan-Releases/</link>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.0/AudioPatchPlan-0.5.0-1.zip" length="7928352" type="application/octet-stream" sparkle:edSignature="/omUXpIsf0Cn4IrU0F8El7XxKJSq1SCoUiPCU2R8VnNjmcLoFp45dMldn7GLt1QxRTld8jQVwrYPz6RHRs5/Aw=="/>
+            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.0/AudioPatchPlan-0.5.0-1.zip" length="7928349" type="application/octet-stream" sparkle:edSignature="CyKpHwt5JMpzWLWA5wmYtO27azNNfxRjFb8vYMCdiU+L7Cf4rjN4alnkqxkIqmQjGxPSoeDbyOp6gOzuPFA3AA=="/>
         </item>
     </channel>
 </rss>

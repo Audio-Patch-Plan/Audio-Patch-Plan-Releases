@@ -1,24 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Audio Show Book</title>
-        <item>
-            <title>0.5.1</title>
-            <pubDate>Sat, 27 Jun 2026 17:17:08 +0100</pubDate>
-            <link>https://audio-patch-plan.github.io/Audio-Patch-Plan-Releases/</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/AudioShowBook-0.5.1-2.zip" length="7851264" type="application/octet-stream"/>
-        </item>
+        <title>Audio Patch Plan</title>
         <item>
             <title>0.5.0</title>
-            <pubDate>Wed, 01 Jul 2026 15:56:43 +0100</pubDate>
+            <pubDate>Wed, 01 Jul 2026 16:41:23 +0100</pubDate>
             <link>https://audio-patch-plan.github.io/Audio-Patch-Plan-Releases/</link>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/AudioPatchPlan-0.5.0-1.zip" length="7938091" type="application/octet-stream"/>
+            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.0/AudioPatchPlan-0.5.0-1.zip" length="7928367" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>

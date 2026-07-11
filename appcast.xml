@@ -3,13 +3,13 @@
     <channel>
         <title>Audio Patch Plan</title>
         <item>
-            <title>0.5.1</title>
-            <pubDate>Fri, 10 Jul 2026 13:52:13 +0000</pubDate>
+            <title>0.5.2</title>
+            <pubDate>Sat, 11 Jul 2026 12:13:24 +0000</pubDate>
             <link>https://audio-patch-plan.github.io/Audio-Patch-Plan-Releases/</link>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.1/AudioPatchPlan-0.5.1-2.zip" length="7950481" type="application/octet-stream" sparkle:edSignature="htdkMYZxMyacawCaDob+Z9GtiJrLdaCZzG2WzbtBfX5GqSeZ6krCKrbfR/xCwKV+QGlufwA8EyPEIVGQxZAhAQ=="/>
+            <enclosure url="https://github.com/Audio-Patch-Plan/Audio-Patch-Plan-Releases/releases/download/v0.5.2/AudioPatchPlan-0.5.2-3.zip" length="7962584" type="application/octet-stream" sparkle:edSignature="Mx89nMqsBbD8wbZYS0YcvzxspwYXBY8mLArwc0ZNQ8brUll2CEIUXz73jT+NOAf752SDWmqbgpxJTlPJgM5CCA=="/>
         </item>
     </channel>
 </rss>
